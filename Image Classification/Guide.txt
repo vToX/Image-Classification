@@ -5,7 +5,7 @@ Motivation :
 Requirements :
 	Tensorflow         1.12.0
 	keras                  2.2.4
-                 cv2                     3.4.3
+        cv2                     3.4.3
 	numpy                 1.14.5
 
 
@@ -20,15 +20,14 @@ Guide :
 	Repository consist of main 3 files. 
 		Preprocessing.ipynb - It will  help to preprocess data.  Converting Data into right format.
 		
-		Model.ipynb - Define model architecture. Transfer learning has been applied to save vast compute and time resources                                                                         which will require to develop neural network models.
+		Model.ipynb - Define model architecture. Transfer learning has been applied to save vast compute and time resources which will require to develop neural network models.
 
 		Train.ipynb -  To train model 
 
 
 
 Future Scope : 
-	I will try cover all the areas of Depp learning such as GAN's, Object Detection, ChatBot, Voice recognition, Trigger Word Detection, etc.
-and also try to include techniques such as distributed computing(traning on multiple PC's), Visualization, etc which will probably help developers as well as non deveplopers to train thier models quickly and more efficiently with best Accuracy.
+	I will try cover all the areas of Depp learning such as GAN's, Object Detection, ChatBot, Voice recognition, Trigger Word Detection, etc. and also try to include techniques such as distributed computing(traning on multiple PC's), Visualization, etc which will probably help developers as well as non deveplopers to train thier models quickly and more efficiently with best Accuracy.
 
 
 Contact me :
