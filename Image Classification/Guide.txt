@@ -1,0 +1,39 @@
+Motivation : 
+	Artificial Intelligence is an emerging feild and losts of startups are trying to implement their ideas. Hiring interns, developers to train models isn't an best idea Cause there are not lots of keys that you can use to improve model accuracy. Only few, are actually good at it(Andrew Ng). This technology is currently under experimental phase where scientist trying to find what works best.
+	Therefore, Why you should hire, when you can do it what they can do.
+
+Requirements :
+	Tensorflow         1.12.0
+	keras                  2.2.4
+                 cv2                     3.4.3
+	numpy                 1.14.5
+
+
+
+Guide :
+	Steps for successful Image Classification project:
+		1. Preprocess data
+		2. Define Model Architeture
+		3. Train it
+
+
+	Repository consist of main 3 files. 
+		Preprocessing.ipynb - It will  help to preprocess data.  Converting Data into right format.
+		
+		Model.ipynb - Define model architecture. Transfer learning has been applied to save vast compute and time resources                                                                         which will require to develop neural network models.
+
+		Train.ipynb -  To train model 
+
+
+
+Future Scope : 
+	I will try cover all the areas of Depp learning such as GAN's, Object Detection, ChatBot, Voice recognition, Trigger Word Detection, etc.
+and also try to include techniques such as distributed computing(traning on multiple PC's), Visualization, etc which will probably help developers as well as non deveplopers to train thier models quickly and more efficiently with best Accuracy.
+
+
+Contact me :
+	If you need any help, feel free to get in touch at ganeshpatil4243@gmail.com
+
+
+Note :
+	Description of topics is not entirely written by me plagiarism of content has been done. I have tried to put simplest explaination.
